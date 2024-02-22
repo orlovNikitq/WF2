@@ -1,0 +1,10 @@
+C:\Users\zunderz\Documents\projc#\Homework\D31\bin\Debug\D31.exe.config
+C:\Users\zunderz\Documents\projc#\Homework\D31\bin\Debug\D31.exe
+C:\Users\zunderz\Documents\projc#\Homework\D31\bin\Debug\D31.pdb
+C:\Users\zunderz\Documents\projc#\Homework\D31\obj\Debug\D31.csproj.AssemblyReference.cache
+C:\Users\zunderz\Documents\projc#\Homework\D31\obj\Debug\D31.Form1.resources
+C:\Users\zunderz\Documents\projc#\Homework\D31\obj\Debug\D31.Properties.Resources.resources
+C:\Users\zunderz\Documents\projc#\Homework\D31\obj\Debug\D31.csproj.GenerateResource.cache
+C:\Users\zunderz\Documents\projc#\Homework\D31\obj\Debug\D31.csproj.CoreCompileInputs.cache
+C:\Users\zunderz\Documents\projc#\Homework\D31\obj\Debug\D31.exe
+C:\Users\zunderz\Documents\projc#\Homework\D31\obj\Debug\D31.pdb
